@@ -4,7 +4,7 @@
   "description": "An example template to demonstrate how to extend the tool",
   "scripts": [
     {
-      "type": "module"
+      "type": "module",
       "text": "import emojiPickerElement from 'https://cdn.skypack.dev/emoji-picker-element'"
     }
   ]
