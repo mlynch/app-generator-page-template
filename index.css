@@ -1,0 +1,12 @@
+.logo {
+  display: block;
+  margin: 24px auto;
+  max-height: 96px;
+}
+.buttons {
+  margin: 24px;
+  text-align: center;
+}
+.buttons a {
+  margin-top: 24px;
+}
